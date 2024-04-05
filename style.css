@@ -1,0 +1,33 @@
+.content {
+  position: absolute;
+  color: white;
+  padding: 20px;
+  background-color: rgba(39, 255, 64, 0.509);
+  height: 100vh;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.blocks-in-grid {
+  margin-top: 10px;
+}
+.threads-in-block {
+  margin-bottom: 50px;
+}
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  width: 100%;
+}
+
+.code-representation {
+  position: absolute;
+  color: white;
+  bottom: 0;
+  right: 0;
+}
