@@ -6,4 +6,4 @@ This is a simple tool I made to visualize the multidimensional thread space of a
 
 Just go to https://cuda-viz.netlify.app and start messing around with the block dimensions. Remember threads are organized in 3D space within a block and blocks are organized in 3D space within a grid. The tool will show you the total number of threads with the current configuration.
 
-https://docs.nvidia.com/cuda/cuda-c-programming-guide/_images/grid-of-thread-blocks.png
+![diagram](https://docs.nvidia.com/cuda/cuda-c-programming-guide/_images/grid-of-thread-blocks.png)
